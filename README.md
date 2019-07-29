@@ -9,8 +9,8 @@ Scenario: Default home map, one female character, male hidden.
 
 **Test 1**  
 Plugin disabled, using default (60) refresh rate.  
-*CPU: ~35%*
-*GPU: ~75%*
+*CPU: ~35%*  
+*GPU: ~75%*  
 
 **Test 2**  
 Plugin enabled, refresh rate set to the maximum value (240).  
