@@ -1,4 +1,4 @@
-# KK_DynamicBoneUpdateRate
+# KK_DynamicBoneUpdateRate (currently buggy! Wait for new release)
 
 This plugin allows you to change the default refresh rate (60) of the Dynamic Bones.
 If you have more than 60fps you will experience certain dynamic bones like hair, skirt or breasts jittering rapidly.
