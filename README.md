@@ -1,7 +1,7 @@
 # KK_DynamicBoneUpdateRate v2.0  
 
-**Currently not working, is buggy**
-**Anyone is welcome to fork and fix it**
+**Currently not working, is buggy**  
+**Anyone is welcome to fork and fix it**  
 
 This plugin allows you to change the DynamicBone and DynamicBone_Ver02 update rate.  
 Using this you no longer get skirt/breasts/other dynamic bones jittering when your game is over 60FPS.  
